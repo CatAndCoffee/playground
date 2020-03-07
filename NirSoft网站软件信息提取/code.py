@@ -17,6 +17,9 @@ There are too many useful tools in Nirsoft(https://www.nirsoft.net/)...
 WebBrowserPassView is a password recovery tool that reveals the passwords stored by the following Web browsers: Internet Explorer (Version 4.0 - 8.0), Mozilla Firefox (All Versions), Google Chrome, and Opera. This tool can be used to recover your lost/forgotten password of any Website, including popular Web sites, like Facebook, Yahoo, Google, and GMail, as long as the password is stored by your Web Browser.
 After retrieving your lost passwords, you can save them into text/html/csv/xml file, by using the 'Save Selected Items' option (Ctrl+S).
 
+
+docker启动mongoDB
+docker run -p 27017:27017 -v DataDir:/data/db --name docker_mongodb -d mongo
 """
 
 import re
