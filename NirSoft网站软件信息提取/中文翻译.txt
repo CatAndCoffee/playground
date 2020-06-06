@@ -1,0 +1,514 @@
+WebBrowserPassView v1.94
+WebBrowserPassView是一个密码恢复工具，它显示以下Web浏览器存储的密码：Internet Explorer（4.0-8.0版）、Mozilla Firefox（所有版本）、Google Chrome和Opera。此工具可用于恢复任何网站（包括Facebook、Yahoo、Google和GMail等流行网站）丢失/忘记的密码，只要密码存储在您的Web浏览器中。检索丢失的密码后，可以使用“保存选定项”选项（Ctrl+S）将其保存到text/html/csv/xml文件中。
+IE PassView v1.42
+IE PassView是一个小型实用程序，可以显示Internet Explorer浏览器存储的密码。它支持新的Internet Explorer 7.0-11.0以及旧版本的Internet Explorer v4.0-v6.0
+PasswordFox v1.60
+PasswordFox是一个小的密码恢复工具，允许您查看Mozilla Firefox Web浏览器存储的用户名和密码。默认情况下，PasswordFox显示当前配置文件中存储的密码，但您可以轻松选择查看任何其他Firefox配置文件的密码。对于每个密码条目，将显示以下信息：记录索引、网站、用户名、密码、用户名字段、密码字段和签名文件名。
+ChromePass v1.50
+ChromePass是一个小的密码恢复工具，允许您查看Google Chrome Web浏览器存储的用户名和密码。对于每个密码条目，将显示以下信息：源URL、操作URL、用户名字段、密码字段、用户名、密码和创建时间。您可以选择一个或多个项目，然后将它们保存到text/html/xml文件中或将它们复制到剪贴板。
+WirelessKeyView v2.11
+WirelessKeyView通过Windows XP的“无线零配置”服务和Windows Vista的“WLAN自动配置”服务恢复存储在计算机中的所有无线网络密钥（WEP/WPA）。它允许您轻松地将所有键保存到text/html/xml文件，或将单个键复制到剪贴板。
+Network Password Recovery v1.50
+当您连接到局域网上的网络共享或.NET Passport/Messenger帐户时，Windows XP/Vista允许您保存密码，以便在每次连接远程服务器时使用它。此实用程序恢复当前登录用户存储在系统中的所有网络密码。
+BulletsPassView v1.32
+BulletsPassView是一个密码恢复工具，它在Windows操作系统和Internet Explorer Web浏览器的标准密码文本框中显示存储在项目符号后面的密码。显示密码后，您可以轻松地将其复制到剪贴板或将其保存到text/html/csv/xml文件中。
+Mail PassView v1.90 - Email Password Recovery
+恢复下列电子邮件应用程序的密码和其他电子邮件帐户信息：Outlook Express、Microsoft Outlook 2000（仅限POP3/SMTP帐户）、Microsoft Outlook 2002/2003/2007/2010/2013/2016、Windows Mail、IncrediMail、Eudora、Netscape Mail、Mozilla Thunderbird，
+PstPassword v1.20
+PST password是一个小实用程序，用于恢复丢失的Outlook.PST（个人文件夹）文件密码。
+RouterPassView v1.89
+大多数现代路由器允许您将路由器的配置备份到一个文件中，然后在需要时从该文件还原配置。路由器的备份文件通常包含重要数据，如ISP用户名/密码、路由器的登录密码和无线网络密钥。如果您丢失了其中一个密码/密钥，但仍有路由器配置的备份文件，RouterPassView可能会帮助您从路由器文件中恢复丢失的密码。
+VaultPasswordView v1.08
+VaultPasswordView是一个用于Windows 10/8/7的简单工具，用于解密和显示存储在“Windows保险库”中的密码和其他数据。您可以使用它来解密当前运行系统的Windows保险存储数据，以及存储在外部硬盘驱动器上的Windows保险存储数据。
+CredentialsFileView v1.07
+CredentialsFileView是Windows的一个简单工具，用于解密和显示存储在Windows凭据文件中的密码和其他数据。您可以使用它来解密当前运行系统的凭据数据，以及存储在外部硬盘上的凭据数据。
+EncryptedRegView v1.03
+EncryptedRegView是Windows的一个工具，它可以扫描当前运行系统的注册表或所选外部硬盘的注册表，并搜索使用DPAPI（数据保护API）加密的数据。当它在注册表中找到加密数据时，会尝试对其进行解密，并在EncryptedRegView的主窗口中显示解密的数据。使用此工具，您可以找到由Microsoft产品和第三方产品存储在注册表中的密码和其他机密数据。
+DataProtectionDecryptor v1.10
+DataProtectionDecryptor是Windows的一个强大工具，它允许您对Windows操作系统的DPAPI（Data Protection API）系统加密的密码和其他信息进行解密。您可以使用此工具解密当前运行系统上的DPAPI数据，并解密存储在外部硬盘驱动器上的DPAPI数据。
+Remote Desktop PassView v1.02
+远程桌面PassView是一个小型实用程序，它显示Microsoft远程桌面连接实用程序在.rdp文件中存储的密码。
+OperaPassView v1.10
+OperaPassView是一个小型密码恢复工具，用于解密Opera Web浏览器密码文件（wand.dat）的内容，并显示存储在此文件中的所有网站密码的列表。您可以在OperaPassView窗口中轻松地选择一个或多个密码，然后将密码列表复制到剪贴板并将其保存到text/html/csv/xml文件中。
+LSASecretsView v1.25
+LSASecretsView是一个小实用程序，它显示存储在计算机注册表中的所有LSA机密的列表。LSA secrets密钥位于HKEY_LOCAL_MACHINE\Security\Policy\secrets下，可能包含您的RAS/VPN密码、自动登录密码和其他系统密码/密钥。
+LSASecretsDump v1.21
+LSA secrets dump是一个小型控制台应用程序，它从注册表中提取LSA机密，解密它们，并将它们转储到控制台窗口中。LSA secrets密钥位于HKEY_LOCAL_MACHINE\Security\Policy\secrets下，可能包含您的RAS/VPN密码、自动登录密码和其他系统密码/密钥。此实用程序是LSASecretsView的控制台版本。
+PCAnywhere PassView v1.11
+显示存储在PCAnywhere项中的密码。登录信息和保护密码都会立即显示。
+Access PassView v1.12
+此实用程序显示使用Microsoft Access 95/97/2000/XP或Jet database Engine 3.0/4.0创建的每个受密码保护的mdb文件的数据库密码。如果忘记了Access数据库密码并希望恢复它，则此实用程序非常有用。
+Win9x PassView v1.1
+Win9x PassView实用程序显示Windows 95/98操作系统存储在计算机上的密码。
+Content Advisor Password Remover v1.01
+删除Internet Explorer（4.x及更高版本）中的内容审查程序密码。
+Enterprise Manager PassView v1.00
+显示SQL Server企业管理器存储在计算机上的密码。
+VNCPassView v1.05
+VNCPassView是一个小实用程序，用于恢复VNC工具存储的密码。它可以恢复两个密码：为当前登录用户存储的密码（注册表中的HKEY_current_user）和为所有用户存储的密码。
+Dialupass v3.61 - Dialup Password Recovery
+此实用程序枚举计算机上的所有拨号/VPN条目，并显示它们的登录详细信息：用户名、密码和域。您可以使用它来恢复丢失的Internet连接或VPN密码。Dialupass还允许您将拨号/VPN列表保存到text/html/csv/xml文件中，或将其复制到剪贴板。
+MessenPass v1.43 - Instant Messenger Password Recovery
+MessenPass是一个密码恢复工具，可显示以下即时通讯应用程序的密码：MSN messenger、Windows messenger（在Windows XP中）、Windows Live messenger（在Windows XP和Vista中）、Yahoo messenger（版本5.x/6.x）、ICQ Lite 4.x/5.x/2003、AOL instant messenger、AIM 6.x、AIM Pro、Trillian、Miranda和GAIM。
+AsterWin IE v1.03
+此实用程序显示存储在Internet Explorer 5.0及更高版本网页中星号后面的密码。如果网站密码存储在您的计算机上，您可以使用它来恢复丢失的网站密码。它是在Visual Basic环境下开发的，需要visualbasic运行库。
+SmartSniff v2.29
+SmartSniff允许您捕获通过网络适配器的TCP/IP数据包，并将捕获的数据视为客户端和服务器之间的会话序列。您可以以Ascii模式（对于基于文本的协议，如HTTP、SMTP、POP3和FTP）或十六进制转储来查看TCP/IP会话。（对于非文本基协议，如DNS）
+WifiChannelMonitor v1.59
+wifi channel Monitor在您选择的频道上捕获wifi流量，在监视器模式下使用Microsoft网络监视器捕获驱动程序，并显示有关访问点和连接到它们的wifi客户端的大量信息。WifiChannelMonitor还允许您查看有关未连接到任何访问点的wifi客户端的信息，包括它们试图连接的ssid（网络名称）列表。对于每个访问点，将显示以下信息：SSID、MAC地址、设备制造商、PHY类型、信道、RSSI、安全性、信标计数、探测响应计数、数据字节、重新传输的数据字节等等。。。对于每个客户端，将显示以下信息：MAC地址、设备制造商、客户端尝试连接的SSID列表、发送的数据字节、接收的数据字节、探测请求计数等等。。。
+NetworkTrafficView v2.30
+NetworkTrafficView是一个网络监视工具，它捕获通过网络适配器的数据包，并显示有关网络流量的一般统计信息。数据包统计信息按以太网类型、IP协议、源/目标地址和源/目标端口分组。对于每个统计行，将显示以下信息：以太网类型（IPv4、IPv6、ARP）、IP协议（TCP、UDP、ICMP）、源地址、目标地址、源端口、目标端口、服务名称（http、ftp等）、数据包计数、总数据包大小、总数据大小、数据速度、最大数据速度、平均数据包大小，第一个/最后一个数据包时间、持续时间和进程ID/名称（用于TCP连接）。
+HTTPNetworkSniffer v1.63
+HTTPNetworkSniffer是一个包嗅探器工具，它捕获Web浏览器和Web服务器之间发送的所有HTTP请求/响应，并将它们显示在一个简单的表中。对于每个HTTP请求，都会显示以下信息：主机名、HTTP方法（GET、POST、HEAD）、URL路径、用户代理、响应代码、响应字符串、内容类型、Referer、内容编码、传输编码、服务器名称、内容长度、Cookie字符串等等。。。您可以轻松地选择一个或多个HTTP信息行，然后将它们导出到text/html/xml/csv文件或将它们复制到剪贴板，然后将它们粘贴到Excel中。
+AppNetworkCounter v1.35
+AppNetworkCounter是Windows的一个简单工具，它计算并显示系统上每个应用程序发送和接收的TCP/UDP字节数和数据包数。对于每个应用程序，将显示以下信息：发送和接收的字节数、发送和接收的数据包数、发送/接收的IPv4字节数和发送/接收的IPv6字节数。它还显示应用程序的版本信息—产品名称、产品版本、文件说明和公司名称。
+LiveTcpUdpWatch v1.30
+LiveTcpUdpWatch是一个用于Windows的工具，它显示有关系统上所有TCP和UDP活动的实时信息。LiveTcpUdpWatch主表中的每一行显示协议（TCP/UDP/IPv4/IPv6）、本地/远程IP地址、本地/远程端口、发送/接收字节数、发送/接收数据包数、连接/断开连接时间（仅限TCP）以及负责此活动的进程（ID和路径）。
+PingInfoView v2.02
+PingInfoView是一个小型实用程序，允许您轻松ping多个主机名和IP地址，并在一个表中查看结果。它会在指定的每秒钟自动ping到所有主机，并显示成功和失败ping的次数以及平均ping时间。您还可以将ping结果保存到text/html/xml文件中，或者将其复制到剪贴板。
+WifiInfoView v2.60
+WifiInfoView扫描您所在区域的无线网络，并显示有关它们的大量信息，包括：网络名称（SSID）、MAC地址、PHY类型（802.11g或802.11n）、RSSI、信号质量、频率、信道号、最高速度、公司名称、路由器型号和路由器名称（仅适用于提供此信息的路由器）等等。。。在该工具的上窗格中选择无线网络时，下窗格将以十六进制格式显示从该设备接收的Wi-Fi信息元素。WifiInfoView还有一个summary模式，它显示所有检测到的无线网络的摘要，按信道号、制造路由器的公司、PHY类型或最大速度分组。
+SocketSniff v1.11
+SocketSniff允许您监视所选进程的Windows套接字（WinSock）活动。对于每个创建的套接字，将显示以下信息：套接字句柄、套接字类型、本地和远程地址、本地和远程端口、发送/接收字节总数等。您还可以以Ascii模式或十六进制转储方式查看每个发送或接收调用的内容。
+CurrPorts v2.60
+CurrPorts是一个网络监控软件，它显示本地计算机上当前打开的所有TCP/IP和UDP端口的列表。对于列表中的每个端口，还将显示有关打开端口的进程的信息，包括进程名称、进程的完整路径、进程的版本信息（产品名称、文件说明等）、创建进程的时间以及创建进程的用户。此外，CurrPorts允许您关闭不需要的TCP连接，终止打开端口的进程，并将TCP/UDP端口信息保存到HTML文件、XML文件或制表符分隔的文本文件中。CurrPorts还自动用粉红色标记未知应用程序（没有版本信息和图标的应用程序）拥有的可疑TCP/UDP端口
+TcpLogView v1.32
+TcpLogView是一个简单的实用程序，它监视系统上打开的TCP连接，并在每次打开或关闭TCP连接时添加新的日志行。对于每个日志行，将显示以下信息：偶数时间、事件类型（打开、关闭、侦听）、本地地址、远程地址、远程主机名、本地端口、远程端口、进程ID、进程名和远程IP的国家/地区信息（需要分别下载IP到国家/地区文件）
+ProcessTCPSummary v1.10
+process TCP summary是一个用于Windows的简单工具，它显示具有TCP连接或侦听UDP端口的所有进程的摘要。对于每个进程，此工具显示TCP连接的总数、每个状态的TCP连接数（已建立、正在侦听、Syn Sent、Syn Received…）、IPv4 TCP连接数、IPv6 TCP连接数、公用端口号等。。。如果以管理员身份运行ProcessTCPSummary，还可以查看每个进程发送和接收的TCP/UDP字节数以及当前发送/接收速度。
+NetworkConnectLog v1.12
+NetworkConnectLog是一个简单的实用程序，它可以重复扫描局域网（使用ARP和Netbios协议），并在每次新计算机或设备连接到网络时，以及当计算机或设备从网络断开连接时添加新的日志行。累积连接/断开连接日志行后，可以轻松地将日志行导出到逗号分隔/制表符分隔/html/xml文件。
+NetworkLatencyView v1.65
+NetworkLatencyView是Windows的一个简单工具，用于侦听系统上的TCP连接，并计算在系统上检测到的每个新TCP连接的网络延迟（以毫秒为单位）。对于每个IP地址，NetworkLatencyView最多显示10个网络延迟值及其平均值。NetworkLatencyView计算的延迟值与ping到同一IP地址得到的结果非常相似。NetworkLatencyView还允许您轻松地将延迟信息导出到text/csv/tab delimited/html/xml文件，或者将信息复制到剪贴板，然后将其粘贴到Excel或其他应用程序。
+DNSQuerySniffer v1.80
+DNSQuerySniffer是一个网络嗅探器实用程序，显示在您的系统上发送的DNS查询。对于每个DNS查询，将显示以下信息：主机名、端口号、查询ID、请求类型（A、AAAA、NS、MX等）、请求时间、响应时间、持续时间、响应代码、记录数以及返回的DNS记录的内容。您可以轻松地将DNS查询信息导出到csv/tab-delimited/xml/html文件，或者将DNS查询复制到剪贴板，然后将其粘贴到Excel或其他电子表格应用程序中。
+WhoIsConnectedSniffer v1.20
+WhoIsConnectedSniffer是一种网络发现工具，它使用捕获驱动程序（WinpCap或MS网络监视器）侦听网络适配器上的网络数据包，并累积当前连接到网络的计算机和设备的列表。WhoIsConnectedSniffer使用各种协议来检测连接到您网络的计算机，包括ARP、UDP、DHCP、mDNS和BROWSER。对于每个检测到的计算机或设备，将显示以下信息：（如果在数据包中找不到信息，则某些字段可能为空）IP地址、MAC地址、设备/计算机的名称、说明、操作系统、网络适配器公司、IPv6地址。收集连接的计算机/设备信息后，可以轻松地将列表导出到制表符分隔/逗号分隔/xml/html文件。
+Wireless Network Watcher v2.21
+Wireless Network Watcher是一个小型实用程序，它扫描无线网络并显示当前连接到网络的所有计算机和设备的列表。对于连接到网络的每台计算机或设备，将显示以下信息：IP地址、MAC地址、生产网卡的公司，以及可选的计算机名称。您还可以将连接的设备列表导出到html/xml/csv/text文件中，或者将列表复制到剪贴板，然后粘贴到Excel或其他电子表格应用程序中。
+NetworkUsageView v1.13
+NetworkUsageView提取并显示存储在Windows 8和Windows 10的SRUDB.dat数据库中的网络使用信息。Windows操作系统每小时收集一次网络使用数据，其中包括以下信息：服务或应用程序的名称和描述、用户的名称和SID、网络适配器以及指定服务/应用程序发送和接收的字节总数。
+WakeMeOnLan v1.85
+此实用程序允许您通过向远程计算机发送唤醒LAN（WOL）数据包，轻松地远程打开一台或多台计算机。打开计算机后，WakeMeOnLan允许您扫描网络，收集所有计算机的MAC地址，并将计算机列表信息保存为文件。稍后，当计算机关闭或处于待机状态时，可以使用“存储的计算机”列表轻松选择要打开的计算机，然后单击即可打开所有这些计算机。WakeMeOnLan还允许您通过指定计算机名、IP地址或远程网卡的MAC地址，从命令行打开计算机。
+NetworkCountersWatch v1.02
+NetworkCounterWatch是Windows的一个工具，用于显示系统上每个网络接口的系统计数器。系统计数器包括传入/传出字节数、传入/传出数据包数、广播数据包数等。您还可以随时将所有计数器初始化为零，以便监视特定事件的网络计数器。NetworkCounterWatch还计算并显示网络接口上的当前下载速度和上载速度。
+WifiHistoryView v1.52
+WifiHistoryView是一个用于Windows 10/8/7/Vista的简单工具，它可以显示到计算机上无线网络的连接历史。对于计算机连接到无线网络或断开连接的每个事件，都会显示以下信息：事件发生的日期/时间、网络名称（SSID）、配置文件名称、网络适配器名称、路由器/访问点的BSSID等等。。。WifiHistoryView可以从正在运行的系统或另一台计算机的外部事件日志文件中读取wifi历史信息。
+NetworkOpenedFiles v1.27
+NetworkOpenedFiles是一个用于Windows的简单工具，它显示网络上其他计算机当前打开的所有文件的列表。对于每个打开的文件名，将显示以下信息：文件名、用户名、计算机名（在Windows 7/2008或更高版本上）、权限信息（读/写/创建）、锁计数、文件所有者、文件大小、文件属性等。。。
+NetBScanner v1.11
+NetBScanner是一个网络扫描工具，它使用NetBIOS协议扫描所选IP地址范围内的所有计算机。对于此NetBIOS扫描仪定位的每台计算机，都会显示以下信息：IP地址、计算机名称、工作组或域、MAC地址，以及生产网络适配器的公司（根据MAC地址确定）。NetBScanner还显示计算机是否是主浏览器。您可以轻松地选择NetBScanner找到的一台或多台计算机，然后将列表导出到csv/tab-delimited/xml/html文件中。
+WirelessNetView v1.75
+WirelessNetView是一个在后台运行的小型实用程序，它可以监视您周围无线网络的活动。对于每个检测到的网络，它显示以下信息：SSID、上次信号质量、平均信号质量、检测计数器、身份验证算法、密码算法等。
+WirelessConnectionInfo v1.13
+WirelessConnectionInfo是一个用于Windows Vista/7/8/2008的简单工具，它显示有关活动wifi连接的一般信息和统计信息，包括SSID、BSSID、PHY类型、信号质量、接收速率、传输速率、身份验证算法、信道数、发送/接收帧的总数等等。。。
+AdapterWatch v1.05
+AdapterWatch显示有关网络适配器的有用信息：IP地址、硬件地址、WINS服务器、DNS服务器、MTU值、接收或发送的字节数、当前传输速度等。此外，它还显示本地计算机的一般TCP/IP/UDP/ICMP统计信息。
+NetResView v1.27
+NetResView是一个小实用程序，它显示局域网上所有网络资源（计算机、磁盘共享和打印机共享）的列表。与Windows的“网上邻居”模块不同，NetResView在一个屏幕上显示来自所有域/工作组的所有网络资源，包括管理/隐藏共享。
+NetRouteView v1.30
+NetRouteView是Windows操作系统标准路由实用程序（route.exe）的另一种图形用户界面。它显示当前网络上所有路由的列表，包括目标、掩码、网关、接口IP地址、度量值、类型、协议、期限（秒）、接口名称和MAC地址。NetRouteView还允许您轻松添加新路由，以及删除或修改现有静态路由。
+CountryTraceRoute v1.31
+CountryTraceRoute是一个Traceroute实用程序，类似于Windows的tracert工具，但是具有图形用户界面，而且比Windows的tracert快得多。country Traceroute还显示在Traceroute中找到的每个IP地址的所有者的国家。Traceroute完成后，您可以选择所有项目（Ctrl+A），然后使用“保存选定项目”选项（Ctrl+S）将它们保存到csv/tab分隔的/html/xml文件中，或者将它们复制到剪贴板（Ctrl+C），然后将结果粘贴到Excel或其他电子表格应用程序中。
+SniffPass v1.13 - Password Sniffer
+SniffPass是一个小型实用程序，它可以监听您的网络，捕获通过网络适配器的密码，并立即显示在屏幕上。SniffPass可以捕获以下协议的密码：POP3、IMAP4、SMTP、FTP和HTTP（基本身份验证密码）。您可以使用此实用程序恢复丢失的Web/FTP/Email密码。
+BrowsingHistoryView v2.36
+BrowsingHistoryView是一个实用程序，它读取4个不同Web浏览器（Internet Explorer、Mozilla Firefox、Google Chrome和Safari）的历史数据，并在一个表中显示所有这些Web浏览器的浏览历史。浏览历史记录表包括以下信息：访问的URL、标题、访问时间、访问次数、Web浏览器和用户配置文件。BrowsingHistoryView允许您查看正在运行的系统中所有用户配置文件的浏览历史，以及从外部硬盘获取浏览历史。您还可以从用户界面或命令行将浏览历史记录导出到csv/tab delimited/html/xml文件中，而不显示任何用户界面。
+BrowserDownloadsView v1.05
+BrowserDownloadsView是一个用于Windows的工具，它显示Chrome和Firefox浏览器下载文件的详细信息。对于每次下载，都会显示以下信息：文件名、下载URL、网页URL、开始时间、结束时间、下载持续时间、下载大小、Web浏览器等。。。BrowserDownloadsView允许您从当前运行的系统（用户或所有用户配置文件）、网络上的远程计算机和外部硬盘驱动器加载下载列表。BrowserDownloadsView加载下载列表后，您可以选择一个或多个下载，然后将其导出到逗号分隔/tab分隔/html5/xml/JSON文件，或计算下载文件的MD5/SHA1/SHA256/SHA512哈希。
+WebCacheImageInfo v1.30
+WebCacheImageInfo是一个简单的工具，它可以搜索包含EXIF信息的JPEG图像，EXIF信息存储在Web浏览器（Internet Explorer、Firefox或Chrome）的缓存中，然后显示缓存中找到的所有图像的列表以及其中存储的有趣信息，比如用于创建图像的软件，用于拍摄图像的相机模型，以及创建图像的日期/时间。
+ImageCacheViewer v1.20
+ImageCacheViewer是一个简单的工具，它可以扫描您的Web浏览器（Internet Explorer、Firefox或Chrome）的缓存，并列出您最近访问的Web站点中显示的图像。对于每个缓存的图像文件，将显示以下信息：图像的URL、用于访问页面的Web浏览器、图像类型、图像的日期/时间、浏览时间和文件大小。在ImageCacheViewer的上窗格中选择缓存项时，图像将显示在下窗格中，您可以通过按Ctrl+M将图像复制到剪贴板。
+FBCacheView v1.20
+FBCacheView是一个简单的工具，它可以扫描你的浏览器（Internet Explorer、Firefox或Chrome）的缓存，并列出你以前访问过的Facebook页面中显示的所有图片，包括个人资料图片、上传到Facebook的图片以及从其他网站获取的图片。对于每个Facebook图像，将显示以下信息：图像的URL、用于访问页面的Web浏览器、图像类型、图像的日期/时间、访问时间、图像文件大小和外部URL（对于从其他网站获取的图像）。
+BrowserAddonsView v1.21
+BrowserAddonsView是一个简单的工具，显示系统中安装的所有Web浏览器插件/插件的详细信息。BrowserAddonsView可以扫描和检测最流行的Web浏览器的插件：Chrome、Firefox和Internet Explorer。对于Chrome和Firefox，BrowserAddonsView会检测并扫描所有Web浏览器配置文件（如果有多个配置文件）。
+IECacheView v1.58 - Internet Explorer Cache Viewer
+IECacheView是一个小型实用程序，它读取Internet Explorer的缓存文件夹，并显示当前存储在缓存中的所有文件的列表。对于每个缓存文件，将显示以下信息：文件名、内容类型、URL、上次访问时间、上次修改时间、过期时间、命中次数、文件大小、文件夹名称和缓存文件名的完整路径。您可以轻松地将缓存信息保存到text/html/xml文件中，或者将缓存表复制到剪贴板，然后将其粘贴到其他应用程序（如Excel或OpenOffice电子表格）中。
+EdgeCookiesView v1.17
+EdgeCookiesView是一个用于Windows的工具，它显示由更新版本的Microsoft Edge Web浏览器（从Windows 10的秋季创建者更新1709开始）存储的Cookie。它还允许您选择一个或多个cookie，然后将它们导出为制表符分隔的csv文件、html文件或cookies.txt格式的文件。您可以从当前运行的系统或外部硬盘上的WebCacheV01.dat数据库读取cookie。
+IECookiesView v1.79
+此实用程序显示Internet Explorer在您的计算机上存储的所有Cookie的详细信息。此外，它还允许您更改Cookie的内容、删除不需要的Cookie文件、将Cookie保存为可读文本文件、通过指定域名查找Cookie、查看其他用户和其他计算机中的Cookie等等。。。[帮助]阅读更多信息>>
+WebCookiesSniffer v1.30
+Web cookies sniffer是一个包嗅探器工具，它捕获Web浏览器和Web服务器之间发送的所有Web站点cookie，并将它们显示在一个简单的cookies表中。WebCookiesSniffer的上部窗格显示cookie字符串和发送或接收此cookie的网站/主机名。在上窗格中选择cookie字符串时，WebCookiesSniffer将解析cookie字符串，并在下窗格中将cookie显示为名称值格式。
+IEHistoryView v1.70
+此实用程序从计算机上的历史文件中读取所有信息，并显示过去几天内您使用Internet Explorer浏览器访问过的所有URL的列表。它还允许您选择一个或多个URL地址，然后将它们从历史文件中删除或保存到文本、HTML或XML文件中。此外，您还可以查看计算机上其他用户配置文件的已访问URL列表，甚至可以访问远程计算机上的已访问URL列表，只要您具有访问历史文件夹的权限。
+MZCookiesView v1.58
+MZCookiesView是Netscape和Mozilla浏览器提供的标准“Cookie管理器”的替代品。它在一个表中显示存储在cookies文件（cookies.txt）中的所有cookies的详细信息，并允许您将cookies列表保存为文本、HTML或XML文件，删除不需要的cookies，以及备份/还原cookies文件。
+MZHistoryView v1.65
+MZHistoryView是一个小实用程序，它读取Firefox/Mozilla/Netscape浏览器的历史数据文件（history.dat），并显示过去几天访问过的所有网页的列表。对于每个访问过的网页，将显示以下信息：URL、首次访问日期、上次访问日期、访问计数器、推荐人、标题和主机名。您还可以轻松地将历史数据导出到text/HTML/Xml文件。
+MZCacheView v1.85
+MZCacheView是一个小实用程序，它读取Firefox/Mozilla/Netscape Web浏览器的缓存文件夹，并显示当前存储在缓存中的所有文件的列表。对于每个缓存文件，将显示以下信息：URL、内容类型、文件大小、上次修改时间、上次提取时间、过期时间、提取计数、服务器名称等。您可以轻松地从缓存列表中选择一个或多个项目，然后将文件提取到另一个文件夹，或将URL列表复制到剪贴板。
+FirefoxDownloadsView v1.40
+此实用程序显示用Firefox下载的最新文件列表。对于每个下载记录，将显示以下信息：下载URL、下载文件名（带完整路径）、引用程序、MIME类型、文件大小、开始/结束时间、下载持续时间和平均下载速度。您可以轻松地选择一个或多个下载，然后将列表保存到xml/html/text/csv文件中，或者将下载信息复制到剪贴板并粘贴到Excel或其他电子表格应用程序中。
+ChromeCookiesView v1.60
+ChromeCookiesView是Google Chrome浏览器标准内部cookies查看器的替代品。它显示由Google Chrome浏览器存储的所有cookie的列表，并允许您轻松删除不需要的cookie。它还允许您将cookies导出到文本/csv/html/xml文件中。对于每个cookie，将显示以下信息：主机名、路径、名称、值、安全（是/否）、仅限HTTP的cookie（是/否）、上次访问时间、创建时间、过期时间。
+ChromeHistoryView v1.41
+ChromeHistoryView是一个小型实用程序，它读取Google Chrome浏览器的历史数据文件，并显示最近几天访问的所有网页的列表。对于每个访问的网页，将显示以下信息：URL、标题、访问日期/时间、访问次数、用户键入此地址的次数（键入的次数）、引用人和访问ID。您可以选择一个或多个历史记录项，并将它们导出到html/xml/csv/text文件中，或者将信息复制到剪贴板并粘贴到Excel中。
+SafariHistoryView v1.01
+SafariHistoryView是一个用于Windows的简单实用程序，它读取和解析Safari Web浏览器的历史文件（history.plist），并在一个简单的表中显示浏览历史。每个浏览历史记录行都包含以下信息：URL、网页标题、上次访问时间、访问计数、重定向到URL和记录索引。SafariHistoryView允许您轻松地将浏览历史数据导出到text/csv/html/xml文件中，或者将数据复制到剪贴板，然后将其粘贴到Excel中。
+SafariCacheView v1.11
+SafariCacheView是一个用于Windows的简单实用程序，它读取并解析Safari Web浏览器（cache.db）的缓存文件，并在一个简单的表中显示所有缓存文件的列表。每个缓存信息行包括以下信息：文件名、内容类型、URL、内容长度、服务器名称、服务器时间、过期时间、上次修改时间、内容编码和引用。SafariCacheView还允许您选择一个或多个缓存项，然后将它们提取到所需的文件夹中，或将缓存列表保存到html/text/xml/csv文件中。
+OperaCacheView v1.40
+OperaCacheView是一个小实用程序，它读取Opera Web浏览器的缓存文件夹，并显示当前存储在缓存中的所有文件的列表。对于每个缓存文件，将显示以下信息：服务器中的URL、内容类型、文件大小、上次访问时间和上次修改时间。您可以轻松地从缓存列表中选择一个或多个项目，然后将文件提取到另一个文件夹，或将URL列表复制到剪贴板。
+ChromeCacheView v2.00
+ChromeCacheView是一个小型实用程序，它读取Google Chrome Web浏览器的缓存文件夹，并显示当前存储在缓存中的所有文件的列表。对于每个缓存文件，将显示以下信息：URL、内容类型、文件大小、上次访问时间、过期时间、服务器名称、服务器响应等。您可以轻松地从缓存列表中选择一个或多个项目，然后将文件提取到另一个文件夹，或将URL列表复制到剪贴板。
+FlashCookiesView v1.15
+FlashCookiesView是一个小实用程序，它在Web浏览器中显示由Flash组件（本地共享对象）创建的cookie文件列表。对于每个cookie文件，FlashCookiesView的下窗格以可读格式或十六进制转储的形式显示文件内容。您还可以选择一个或多个cookie文件，然后将它们复制到剪贴板，将它们保存到text/html/xml文件或删除它们。
+MyLastSearch v1.65
+MyLastSearch实用程序扫描您的Web浏览器的缓存和历史文件，并定位您使用最流行的搜索引擎（Google、Yahoo和MSN）进行的所有搜索查询。您所做的搜索查询将显示在包含以下列的表中：搜索文本、搜索引擎、搜索时间、Web浏览器和搜索URL。
+URLStringGrabber v1.11
+URLStringGrabber是一个小实用程序，它扫描所有打开的Internet Explorer窗口并获取其中存储的URL，包括可单击的链接、图像、脚本文件、CSS文件、RSS源和flash（.swf）文件。URL列表显示在表中，您可以轻松地将某些URL或整个URL列表导出为文本、csv、html或xml文件。您还可以将url列表复制到剪贴板中，并将其粘贴到Excel或其他电子表格应用程序中。
+IEDesignMode v1.00
+IEDesignMode在Internet Explorer的上下文菜单中添加了一个新的菜单项，使您可以轻松地将活动的internetexplorer窗口切换到设计模式。当网页处于设计模式时，可以更改图像和其他对象的位置、更改当前文本、将新文本粘贴到网页中等等。更改后，可以轻松切换回非设计模式和/或将修改后的网页保存为HTML文件。
+FavoritesView v1.32
+FavoritesView在一个页面中显示所有您的收藏夹（Internet Explorer浏览器）和书签（Netscape/Mozilla浏览器）的列表。列表中的每一行指定项的标题、URL地址、书签项的创建/修改日期和文件夹名称。您可以选择一个或多个书签，然后将它们复制到剪贴板，删除它们（仅适用于Internet Explorer收藏夹），将它们导出到制表符分隔的文本文件、HTML文件或XML文件。FavoritesView还允许您在收藏夹/书签中查找重复的URL地址，或通过指定URL或标题查找特定项目。
+ActiveX Compatibility Manager v1.00
+此实用程序允许您在Internet Explorer浏览器上轻松禁用/启用ActiveX组件。
+VideoCacheView v3.05
+在网站中观看视频后，您可能希望将视频文件保存到本地磁盘中，以便将来脱机播放。如果视频文件存储在浏览器的缓存中，则此实用程序可以帮助您从缓存中提取视频文件并将其保存以供将来观看。它会自动扫描Internet Explorer和基于Mozilla的Web浏览器（包括Firefox）的整个缓存，并查找当前存储在其中的所有视频文件。它允许您轻松地将缓存的视频文件复制到另一个文件夹中，以便将来播放/观看它们。如果您的电影播放器配置为播放flv文件，它还允许您直接从浏览器的缓存中播放视频。
+RTMPDumpHelper v1.22
+RTMPDumpHelper是一个小实用程序，可以帮助您轻松下载RTMP视频/音频流。通过将此实用程序与RTMPDump工具包的代理服务器相结合，您只需在喜爱的Web浏览器中打开包含RTMP视频流的网页，在观看视频时，该网页将自动保存为.flv或.mp4文件。RTMP是Hulu、justin.tv和许多直播网站使用的流媒体协议。
+SoundVolumeView v2.06
+SoundVolumeView是一个适用于Windows Vista/7/8/2008的简单工具，它显示系统中所有活动声音组件的一般信息和当前音量级别，并允许您立即将其静音和取消静音。SoundVolumeView还允许您将声音配置文件保存到一个文件中，该文件包含所有声音组件以及默认声音设备的当前音量级别和静音/取消静音状态，然后在以后加载相同的文件名以还原完全相同的音量级别和设置。还提供了大量的命令行支持，允许您保存/加载配置文件、更改每个声音组件的当前音量以及静音/取消静音每个声音组件，而不显示任何用户界面。
+AppAudioConfig v1.10
+从Windows Vista开始，您可以分别更改每个应用程序的音量，退出应用程序后，最后的设置将保存在注册表中的HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore下，以便下次运行应用程序时，已使用上次设置。此工具显示系统上每个应用程序的当前音频设置，并允许您轻松地同时更改多个应用程序的设置。您可以更改应用程序的静音/取消静音状态、音量级别和右/左音频平衡。
+Volumouse v2.03
+Volumouse为您提供了一种快速简便的方法来控制系统上的音量-只需滚动鼠标滚轮即可。它允许您定义一组规则，用于确定何时使用控制盘更改音量。例如：您可以将Volumouse配置为在按住Alt键、按下鼠标左键、鼠标光标位于任务栏上方时使用鼠标滚轮进行音量控制，依此类推。。。当您定义的条件不满足时，您的鼠标滚轮将与以前一样用于常规滚动任务。
+InstalledCodec v1.30
+installed Codec是一个小实用程序，用于显示系统上当前安装的所有编解码器驱动程序和DirectShow筛选器的列表。对于每个组件，将显示以下信息：显示名称、类型、禁用状态、安装/修改时间、说明、公司名称、文件名等。。。它允许您轻松禁用或启用任何Codec/DirectShow组件，或将列表导出为text/xml/html文件。
+WebVideoCap v1.41
+在网站中观看视频时，有时可能需要将视频保存到本地驱动器中，然后在以后脱机播放。此实用程序允许您捕获.flv（Flash Video）文件和RTSP流，而Web浏览器可以在网页中下载和播放它们。整个视频文件下载并由Web浏览器播放后，该视频文件将保存在您选择的文件夹中，您可以稍后使用任何视频播放器脱机播放。WebVideoCap可以捕获最流行的视频共享网站的视频文件，包括YouTube、Google video、Yahoo video、iFilm、Metacafe、Putfile等等。。。
+DomainHostingView v1.82
+DomainHostingView是Windows的一个实用程序，它通过使用一系列DNS和WHOIS查询收集有关域的大量信息，并生成可以在任何Web浏览器中显示的HTML报告。DomainHostingView报告显示的信息包括：托管指定域的Web服务器、邮件服务器和域名服务器（DNS）的托管公司或数据中心、域的创建/更改/过期日期、域所有者、注册域的域注册器、所有DNS记录的列表等等。。。
+DownTester v1.30 - Internet Speed Test
+DownTester允许您在世界各地的多个位置轻松测试您的Internet下载速度。它会一个接一个地自动测试您选择的url的下载速度。它会在经过指定的秒数或下载指定的KB后移动到下一个下载URL，这完全取决于您的首选项。下载测试完成后，您可以轻松地将结果保存到text/html/xml/csv文件中，或者将其复制到剪贴板并粘贴到Excel和其他应用程序中。
+NetConnectChoose v1.07
+NetConnectChoose是一个简单的工具，当您同时拥有多个Internet连接时，它允许您轻松地选择所有Internet应用程序将使用的默认Internet连接。（不同网络适配器上的每个连接）它还显示有关每个活动网络/Internet连接的大量信息，包括网络适配器名称、MAC地址、名称服务器、MTU、接口速度、当前传入/传出数据速度、接收/发送包数、接收/发送字节数等等。。。
+HostedNetworkStarter v1.15
+HostedNetworkStarter是一个适用于Windows 7及更高版本的简单工具，它允许您使用Windows操作系统的wifi承载网络功能，使用无线网络适配器轻松创建wifi热点。使用此工具创建的wifi热点，您可以允许任何支持wifi的设备访问网络和计算机中可用的Internet连接。
+IPNetInfo v1.95
+IPNetInfo是一个小型实用程序，允许您轻松查找有关IP地址的所有可用信息：IP地址的所有者、国家/地区名称、IP地址范围、联系信息（地址、电话、传真和电子邮件）等。此实用程序对于查找未经请求的邮件的来源非常有用。您可以简单地从电子邮件软件复制邮件头并将其粘贴到IPNetInfo实用程序中。IPNetInfo自动从消息头中提取所有IP地址，并显示有关这些IP地址的信息。
+WhoisThisDomain v2.41
+此实用程序允许您轻松获取有关已注册域的信息。它根据顶级域名自动连接到正确的WHOIS服务器，并检索该域的WHOIS记录。它支持通用域和国家代码域。
+IPInfoOffline v1.55
+IPInfoOffline允许您查看有关IP地址的信息，而无需连接任何外部服务器。它使用存储在exe文件中的压缩IP地址数据库。对于每个IP地址，将显示以下信息：IP块范围、组织（RIGE、ARIN、APNIC、LACNIC或AFRINIC）、分配日期、国家名称和国家代码。检索有关所需IP地址的信息后，可以将该信息复制到剪贴板，或将其保存到text/html/xml/csv文件中。
+DNSDataView v1.60
+这个实用程序是Windows操作系统附带的NSLookup工具的GUI替代品。它允许您轻松检索指定域的DNS记录（MX、NS、A、SOA）。您可以使用Internet连接的默认DNS服务器，或使用指定的任何其他DNS服务器。检索所需域的DNS记录后，可以将其保存到text/xml/html/csv文件中。
+QuickSetDNS v1.30
+QuickSetDNS是一个简单的工具，允许您轻松更改用于Internet连接的DNS服务器。您可以从用户界面设置所需的DNS服务器，方法是从定义的DNS服务器列表中选择，或者从命令行中选择，而不显示任何用户界面。
+MACAddressView v1.42
+MACAddressView是一个MAC地址查找工具，允许您根据产品的MAC地址轻松查找公司详细信息（公司名称、地址和国家）。MACAddressView还允许您根据公司名称、公司地址或国家名称查找MAC地址记录。找到所需的MAC地址记录后，可以将其保存到text/xml/HTML/csv文件中，或将其复制到剪贴板并粘贴到Excel或其他应用程序中。
+FastResolver v1.26
+FastResolver是一个小型实用程序，它将多个主机名解析为IP地址，反之亦然。您可以简单地键入要解析的IP地址或主机名列表，或者指定要扫描的IP地址范围。对于本地网络，FastResolver还允许您获取扫描的所有IP地址的MAC地址。FastResolver是一个多线程应用程序，因此它可以在几秒钟内解析几十个地址。
+WebSiteSniffer v1.51
+WebSiteSniffer是一个包嗅探器工具，它在浏览Internet时捕获Web浏览器下载的所有网站文件，并将它们存储在您选择的基本文件夹下的硬盘上。WebSiteSniffer允许您选择要捕获的网站文件类型：HTML文件、文本文件、XML文件、CSS文件、视频/音频文件、图像、脚本和Flash（.swf）文件。在捕获网站文件时，WebSiteSniffer的主窗口显示每个网站/主机名的下载文件的一般统计信息，包括所有文件（压缩和未压缩）的总大小以及每种文件类型（HTML、文本、图像等）的文件总数
+SiteShoter v1.42 - Capture Website Screenshots
+SiteShoter是一个小实用程序，允许您将任何网页的屏幕快照保存到文件中。它会自动创建Internet Explorer的隐藏窗口，加载所需的网页，然后将网页的全部内容保存到图像文件（.png、.jpg、.tiff、.bmp或.gif）中。您可以在用户界面模式下使用SiteShoter，也可以在命令行模式下运行SiteShoter，而不显示任何用户界面。
+SeqDownload v1.26
+此实用程序允许您每隔xxx秒/分钟自动从Web下载实时图像，并将文件存储在本地驱动器上。在收集了相当数量的图像后，您可以从下载的图像中轻松地创建漂亮的动画。此实用程序对于实况cams网站、天气雷达图像和卫星图像特别有用。
+HTMLAsText v1.11
+HTMLAsText实用程序通过删除所有HTML标记并根据您的首选项格式化文本，将HTML文档转换为简单的文本文件。
+AddrView v1.01
+AddrView允许您解析HTML页面并提取其中存储的大多数URL地址。AddrView提取图像的url（<img>标记）、到其他文件的链接（<a>标记）、CSS文件、框架、Flash文件等。
+TagsReport v1.00
+TagsReport读取HTML文件并显示其中显示的标记的统计信息。
+JavaScript Animator Express v1.10
+此实用程序允许您从本地驱动器上的图像文件（gif和jpg）轻松创建动画。动画是通过使用JavaScript动画创建一个简单的HTML页面并在默认浏览器上运行来实现的。
+CustomizeIE v1.01
+向Internet Explorer添加新的菜单项和工具栏按钮
+TurnFlash v2.10 (UI Version)
+TurnFlash是一个小型实用程序，允许您在Internet Explorer中完全禁用和启用Macromedia Flash播放器组件。
+TurnFlash v1.00 (command-line version)
+小型命令行实用程序，允许您在Internet Explorer中完全禁用和启用Macromedia Flash播放器组件。
+MIMEView v1.10
+此实用程序显示系统中定义的所有MIME类型的列表。对于每个MIME类型，还显示有关关联文件扩展名和已安装插件的信息。
+NirCmd v2.86
+NirCmd是一个小的命令行实用程序，允许您在不显示任何用户界面的情况下执行一些有用的任务。通过使用简单的命令行选项运行NirCmd，您可以在注册表中写入和删除值和键，将值写入INI文件，拨号到internet帐户或连接到VPN网络，重新启动windows或关闭计算机，创建文件的快捷方式，更改文件的创建/修改日期，更改显示设置，还有更多。。。
+GetNir v1.00
+GetNir是Windows的命令行工具，它通过标准输入（stdin）从其他NirSoft工具接收制表符分隔或逗号分隔的数据，根据指定的筛选表达式和列名查找并提取所需的值，然后将这些值发送到标准输出（stdout）。
+WirelessNetConsole v1.00
+WirelessNetConsole是一个小型控制台应用程序，它将所有当前检测到的无线网络信息转储到标准输出中。对于每个无线网络，将显示以下信息：SSID、信号质量in%、PHY类型、RSSI、MAC地址、信道频率等。
+BluetoothCL v1.07
+BluetoothCL是一个小型控制台应用程序，它将当前检测到的所有蓝牙设备转储到标准输出中。对于每个蓝牙设备，将显示以下信息：MAC地址、名称、主要设备类型、次要设备类型，以及设备的可选公司名称（如果提供了MAC地址的外部文件-oui.txt）
+RegFileExport v1.11
+RegFileExport是一个小型控制台应用程序，允许您轻松地从位于另一个磁盘驱动器上的脱机注册表文件中提取数据。reg file export读取注册表文件，分析它，然后将注册表数据导出到Windows的标准.reg文件中。可以导出整个注册表文件，也可以仅导出特定的注册表项。即使注册表文件已损坏且无法由Windows加载，RegFileExport也可以导出某些注册表数据。
+RunFromProcess v1.05
+run from process是一个命令行实用程序，允许您从选择的另一个进程运行程序。您运行的程序将作为指定进程的子进程执行，它将使用指定父进程的相同用户和安全上下文运行。
+AtNow v1.1
+AtNow是一个命令行实用程序，它可以安排程序和命令在不久的将来运行。
+WhosIP v1.18
+WhosIP是一个简单的命令行实用程序，允许您轻松查找有关IP地址的所有可用信息：IP地址的所有者、国家/地区名称、IP地址范围、联系信息（地址、电话、传真和电子邮件）等等。
+WhoisCL v1.90
+WhoisCL是一个简单的命令行实用程序，允许您轻松获取有关注册域的信息。它根据顶级域名自动连接到正确的WHOIS服务器，并检索该域的WHOIS记录。它支持通用域和国家代码域。
+SNRemove v1.00
+此实用程序从.NET exe和dll文件中删除对强名称签名的引用。删除强名称引用后，可以在dll/exe文件中进行任何更改，而不会出现任何异常或错误消息。
+DumpEDID v1.07
+dump EDID是一个小型控制台应用程序，它从计算机中提取EDID（“扩展显示标识数据”）记录，对其进行分析，并将其转储到控制台窗口中。EDID记录提供有关监视器的基本信息：制造周/年、监视器制造商、监视器型号、支持的显示模式等。。。如果您使用管理员权限登录到此计算机，还可以获取远程计算机的EDID记录。（DumpEDID是MonitorInfoView实用程序的控制台版本）
+GUIPropView v1.12
+GUIPropView显示有关系统上当前打开的所有窗口的详细信息。GUIPropView的上部窗格显示所有顶层窗口，在上部窗格中选择窗口时，下部窗格显示选定顶层窗口的所有子窗口的列表。您还可以选择一个或多个窗口，然后对它们执行一些操作，如关闭、隐藏、显示、最小化、最大化、禁用、启用等等。。。
+FileTypesMan v1.86
+FileTypesMan是Windows“文件夹选项”中“文件类型”选项卡的替代选项。它显示在您的计算机上注册的所有文件扩展名和类型的列表。对于每个文件类型，将显示以下信息：类型名称、说明、MIME类型、感知类型、标志、浏览器标志等。FileTypesMan还允许您轻松编辑每种文件类型的属性和标志，并允许您添加、编辑和删除文件类型中的操作。
+ShortcutsMan v1.10
+ShortcutsMan显示桌面和“开始”菜单下所有快捷方式的详细信息。断开的快捷方式（指向不存在的文件的快捷方式）将自动绘制为粉红色。您可以选择一个或多个快捷方式，然后将其删除、解析或将快捷方式的详细信息保存到HTML/Text/XML文件中。
+OpenWithView v1.11
+如果“打开方式”窗口显示的应用程序太多，并且您希望删除不经常使用的应用程序，则此实用程序非常有用。
+SpecialFoldersView v1.26
+此实用程序显示系统中所有特殊文件夹的列表，并允许您通过双击文件夹项轻松跳转到右侧文件夹。您还可以将所有文件夹路径的列表保存到text/html/xml文件中。
+WinLister v1.22
+此实用程序显示系统上已打开窗口的列表。对于每个窗口，都会显示一些有用的信息：标题、窗口句柄、位置、大小、类名、进程号、创建窗口的程序名等等。。。此外，还可以轻松隐藏、显示或关闭选定的窗口，或将窗口列表保存为文本或HTML文件。
+InsideClipboard v1.15
+每次将某些内容复制到剪贴板以粘贴到另一个应用程序中时，复制的数据都会保存为多种格式。Windows的主剪贴板应用程序只显示基本的剪贴板格式，如文本和位图，但不显示剪贴板中存储的所有格式的列表。InsideClipboard是一个小实用程序，它显示当前存储在剪贴板中的所有格式的二进制内容，并允许您将特定格式的内容保存到二进制文件中。
+Clipboardic v1.15
+Clipboardic是一个小型实用程序，它可以监听剪贴板活动，每次将某些内容复制到剪贴板时，它都会自动将复制的数据保存到Windows剪贴板文件（.clp）中。稍后，当您再次需要复制的数据时，您只需选择正确的剪贴板文件，剪贴簿就会自动将其插入剪贴板。剪贴簿还允许您在本地网络上的多台计算机之间轻松共享剪贴簿数据。
+CustomExplorerToolbar v1.05
+CustomExplorerToolbar是一个仅适用于Windows 7的小型实用程序，它允许您轻松自定义Windows资源管理器的工具栏，并添加以前版本的Windows中存在的按钮，如复制、剪切、粘贴、全选等。此实用程序还允许您删除以前添加的工具栏按钮。
+NirExt v1.01
+niext实用程序向Windows资源管理器环境添加了3个有用的上下文菜单扩展名：<ul><li>文件夹属性：右键单击文件系统中的某个文件夹时，此选项在上下文菜单中可用。它允许您更改所需文件夹的图标，并更改鼠标光标移动到文件夹上时显示的文本。<li>高级运行：右键单击可执行文件（.EXE）时，此选项在上下文菜单中可用。它允许您立即使用命令行和一些其他选项运行应用程序。<li>创建快捷方式+：右键单击系统中的任何文件时，此选项在上下文菜单中可用。它允许您立即创建快捷方式并将其放入下列文件夹之一：“桌面”、“开始”菜单、“开始”菜单下的“程序”文件夹、“通用桌面”（适用于所有用户）、“通用开始”菜单（适用于所有用户）和“开始”菜单下的“通用程序”文件夹（适用于所有用户）。</li></li></li></ul>
+NK2Edit v3.40
+每次您在MS-Outlook的邮件窗口中键入电子邮件地址或名称时，它都会自动为您提供一个用户列表和电子邮件地址供您选择。此功能称为“自动完成”，Outlook会根据用户活动自动生成此电子邮件列表，并将其保存到扩展名为.NK2的文件中。在某些情况下，可能需要修复或修改“自动完成”列表中显示的值，或者可能需要删除不需要的电子邮件地址和/或添加新的电子邮件地址。MS Outlook不提供任何编辑此自动完成列表的功能，因此这是NK2Edit软件可以帮助您的地方。NK2Edit是一个真正的NK2编辑器，允许您修改NK2文件中的所有字段，删除不需要的记录，添加新记录，[帮助]修复损坏的NK2文件，[帮助]将两个或多个NK2文件合并到一个NK2文件，等等。。。
+OutlookAttachView v3.30
+OutlookAttachView扫描存储在Outlook中的所有邮件，并显示它找到的所有附加文件的列表。您可以轻松地选择一个或多个附件并将其全部保存到所需文件夹中，还可以删除邮箱中占用过多磁盘空间的不需要的大型附件。您还可以将附件列表保存到xml/html/text/csv文件中。
+OutlookStatView v2.17
+OutlookStatView扫描您的Outlook邮箱，并显示有关您通过电子邮件通信的用户的一般统计信息。对于每个用户/电子邮件，将显示以下信息：您发送给用户的传出邮件数（用to/cc/bcc分隔）、用户发送给您的传入邮件数、用户发送的邮件总大小、此用户使用的电子邮件客户端软件，以及与指定用户发送/接收电子邮件的时间范围。
+OutlookAddressBookView v2.20
+OutlookAddressBookView是一个简单的实用程序，它显示存储在Microsoft Outlook通讯簿中的所有收件人的详细信息。对于每个收件人条目，将显示以下信息：电子邮件地址、显示名称、地址类型（MS Exchange或SMTP）、街道地址、电话号码、创建时间、修改时间（仅适用于Exchange服务器的通讯簿）等等。。。您可以轻松地从列表中选择一个或多个收件人，并将其导出到制表符分隔/逗号分隔/xml/html文件中，或者将其复制到剪贴板，然后将列表粘贴到Excel中。
+OfficeIns v1.20 - Microsoft Office Add-Ins Manager
+OfficeIns是一个小实用程序，它显示计算机上所有已安装的Microsoft Office加载项的详细信息，并允许您禁用/启用它们。
+DLL Export Viewer v1.66
+此实用程序显示指定DLL文件的所有导出函数及其虚拟内存地址的列表。您可以轻松地复制所需函数的内存地址，将其粘贴到调试器中，并为此内存地址设置断点。调用此函数时，调试器将在此函数的开头停止。
+GDIView v1.26
+GDIView是一个独特的工具，它显示每个进程分配的GDI句柄（画笔、笔、字体、位图和其他）的列表。它显示每种类型的GDI句柄的总数，以及每种句柄的详细信息。此工具对于需要跟踪其软件中GDI资源泄漏的开发人员非常有用。
+HeapMemView v1.05
+HeapMemView是一个小实用程序，允许您查看在所选进程堆中分配的所有内存块的内容。对于需要跟踪软件内存泄漏的开发人员，此工具非常有用。
+DeviceIOView v1.06
+DeviceIOView允许您监视软件或服务与设备驱动程序（DeviceIoControl调用）之间的数据传输。对于对设备驱动程序的每次调用，都会显示以下信息：句柄、控制代码、输入字节数、输出字节数、设备句柄名称和所有输入/输出字节，显示为十六进制转储。
+SimpleProgramDebugger v1.05
+SimpleProgramDebugger是一个简单的调试工具，它附加到现有正在运行的程序或以调试模式启动新程序，然后显示程序运行时发生的所有主要调试事件，包括异常、创建线程、创建进程、退出线程、退出进程、加载DLL、卸载DLL和调试字符串。累积调试事件后，您可以轻松地将其导出到逗号分隔/制表符分隔/xml/html文件中，或将其复制到剪贴板，然后将其粘贴到Excel或任何其他电子表格应用程序中。
+SearchMyFiles v3.10
+SearchMyFiles是Windows标准的“搜索文件和文件夹”模块的替代品。它允许您通过通配符、上次修改/创建/上次访问时间、文件属性、文件内容（文本或二进制搜索）和文件大小轻松搜索系统中的文件。SearchMyFiles允许您进行非常精确的搜索，这是Windows搜索无法完成的。例如：您可以搜索过去10分钟内创建的所有文件，其大小在500到700字节之间。搜索后，可以选择一个或多个文件，并将列表保存到text/html/csv/xml文件中，或将列表复制到剪贴板中。
+DriveLetterView v1.50
+drive letter view是一个简单的实用程序，允许您查看系统中所有驱动器号分配的列表，包括本地驱动器、远程网络驱动器、CD/DVD驱动器和USB驱动器，即使它们当前未插入。它还允许您轻松更改USB设备和远程网络共享的驱动器号，以及删除未插入的USB设备的驱动器号。您还可以使用driveletteview将所有驱动器的列表导出到text/csv/html/xml文件中。
+DiskCountersView v1.27
+diskCounterView显示系统中每个磁盘驱动器的系统计数器，包括读/写操作总数和读/写字节总数。它还显示一般的驱动器信息，如磁盘名、分区号、分区位置等。
+AppReadWriteCounter v1.25
+AppReadWriteCounter是一个用于Windows的工具，它计算并显示系统上运行的每个应用程序的当前文件读/写操作。它显示读/写字节数、读/写操作数、当前计算的读/写速度，以及有关进行文件读/写操作的应用程序（产品名称、产品版本等）的详细信息。
+FileActivityWatch v1.55
+FileActivityWatch是一个用于Windows的工具，它显示有关系统上发生的每个文件读/写/删除操作的信息。对于每个文件，FileActivityWatch显示读/写字节数、读/写/删除操作数、第一次和最后一次读/写时间戳以及负责文件操作的进程的名称/标识。
+FileAccessErrorView v1.21
+FileAccessErrorView是Windows的一个诊断工具，它显示在系统上运行的程序试图打开/读/写/删除文件时发生的错误信息。FileAccessErrorView显示应用程序试图打开/读/写/删除的文件名、应用程序的进程id/名称、错误代码（NTSTATUS代码）、错误代码的描述、发生此错误的次数以及此错误的时间戳。
+DiskSmartView v1.21
+DiskSmartView是一个小型实用程序，它从IDE磁盘检索S.M.a.R.T信息（S.M.a.R.T=自我监控、分析和报告技术）。此信息包括磁盘型号/固件/序列号、气缸/磁头、通电时间（POH）、内部温度、磁盘错误率等。您可以使用DiskSmartView检索到的S.M.A.R.T信息来确定磁盘驱动器中是否存在任何重大问题。
+AlternateStreamView v1.56
+AltStreamDump是一个控制台应用程序（命令提示符），用于转储在当前目录中找到的NTFS备用流列表。通过使用一些命令行选项，还可以指示AltStreamDump显示其他文件夹的备用流列表，并扫描所需文件夹深度中的子文件夹
+NTFSLinksView v1.30
+从Windows Vista开始，Microsoft使用符号链接和NTFS文件系统的连接点，以更改Windows的文件夹结构并保持为旧版本Windows编写的应用程序的兼容性。此实用程序只向您显示指定文件夹中所有符号链接和连接及其目标路径的列表。
+FoldersReport v1.21
+FoldersReport实用程序扫描您选择的驱动器或基本文件夹，并显示找到的每个文件夹的基本信息：文件夹中所有文件的大小、磁盘上的实际文件大小、文件夹中的文件数、隐藏文件数、压缩文件数和子文件夹数。您可以使用此实用程序轻松找出哪些文件夹使用了驱动器中最多的空间。您可以扫描本地驱动器、CD-ROM驱动器和远程计算机上网络资源的文件夹。
+WinUpdatesView v1.06 - Windows Updates History Viewer
+WinUpdatesView是一个简单的工具，它显示系统上Windows更新的历史记录。WinUpdatesView可以使用API从本地系统加载Windows更新历史记录，还可以从外部驱动器或网络上的远程计算机读取和分析Windows更新数据库文件（DataStore.edb）。对于每个Windows更新历史记录，WinUpdatesView显示以下字段：标题、说明、安装日期、更新操作（安装、卸载、未启动、正在进行）、操作结果（成功、成功但有错误、失败、中止）、类别、信息URL、支持URL、卸载说明、客户端应用程序ID、服务ID，更新ID，修订号，未映射的结果代码，服务器选择，hResult
+MultiMonitorTool v1.96
+MultiMonitorTool是一个小工具，允许您执行一些与使用多个监视器相关的操作。使用多监视器工具，可以禁用/启用监视器、设置主监视器、保存和加载所有监视器的配置，以及将窗口从一个监视器移动到另一个监视器。您可以从用户界面或命令行执行这些操作，而不显示用户界面。MultiMonitorTool还提供了一个预览窗口，允许您查看系统中每个监视器的预览。
+ControlMyMonitor v1.25
+ControlMyMonitor允许您查看和修改监视器的设置（也称为“VCP功能”），如亮度、对比度、清晰度、红/绿/蓝颜色平衡等等。。。您可以从GUI和命令行修改监视器设置。您还可以将监视器的所有设置导出到配置文件中，然后稍后将相同的配置重新加载到监视器中。
+PropertySystemView v1.00
+property system view是一个工具，允许您使用Windows操作系统的属性系统从GUI和命令行查看和修改文件的属性。例如，您可以更改存储在.mp4文件（System.Media.DateEncoded）中的“Media Created”时间戳以及存储在媒体文件和office文档中的其他元数据，如标题、注释、作者、标记、获取日期、上次保存日期、内容创建日期、导入日期、获取日期（EXIF of.jpg文件）等等。。。PropertySystemView还允许您设置窗口的属性。例如，可以设置窗口的System.AppUserModel.ID属性，以禁用指定窗口的任务栏分组。
+BlueScreenView v1.55
+BlueScreenView扫描在“死亡蓝屏”崩溃期间创建的所有小型转储文件，并在一个表中显示有关所有崩溃的信息。对于每次崩溃，BlueScreenView都会显示小型转储文件名、崩溃的日期/时间、蓝屏中显示的基本崩溃信息（错误检查代码和4个参数）以及可能导致崩溃的驱动程序或模块的详细信息（文件名、产品名、文件描述和文件版本）。对于上窗格中显示的每个崩溃，可以在下窗格中查看崩溃期间加载的设备驱动程序的详细信息。BlueScreenView还将在崩溃堆栈中找到的驱动程序的地址标记出来，这样您就可以轻松找到可能导致崩溃的可疑驱动程序。
+USBDeview v2.86
+USBDeview是一个小实用程序，它列出了当前连接到计算机的所有USB设备以及以前使用过的所有USB设备。对于每个USB设备，都会显示扩展信息：设备名称/说明、设备类型、序列号（对于大容量存储设备）、添加设备的日期/时间、VendorID、ProductID等等。。。USBDeview还允许您卸载以前使用的USB设备，并断开当前连接到计算机的USB设备的连接。您还可以在远程计算机上使用USBDeview，只要您使用admin user登录到该计算机。
+USBLogView v1.26
+USBLogView是一个在后台运行的小型实用程序，它记录任何插入或拔出系统的USB设备的详细信息。对于USBLogView创建的每条日志行，将显示以下信息：事件类型（插头/插头）、事件时间、设备名称、描述、设备类型、驱动器号（用于存储设备）、序列号（仅用于某些类型的设备）、供应商ID、产品ID、供应商名称、产品名称等等。。。您可以轻松地选择一个或多个日志记录，然后将它们导出到csv/tab分隔的/xml/html文件中。
+UninstallView v1.35
+UninstallView是Windows的一个工具，它收集有关系统上安装的所有程序的信息，并在一个表中显示已安装程序的详细信息。您可以使用它来获取本地系统、网络上远程计算机以及连接到计算机的外部硬盘驱动器的安装程序信息。它还允许您轻松卸载本地计算机和远程计算机上的软件（如果安装程序支持，包括安静卸载）。
+InstalledPackagesView v1.05
+InstalledPackagesView是一个适用于Windows的工具，它显示使用Windows安装程序安装在系统上的所有软件包的列表，并列出与这些软件包相关的文件、注册表项和.NET程序集。对于每个已安装的软件，将显示以下信息：显示名称、显示版本、安装日期、注册表时间、估计大小、安装位置、安装源、MSI文件名（在C:\ Windows\Installer中）等。。。您可以从本地系统或外部硬盘驱动器上的其他系统查看已安装的软件包信息。
+RegistryChangesView v1.25
+RegistryChangesView是一个用于Windows的工具，它允许您拍摄Windows注册表的快照，然后将其与其他注册表快照、当前注册表或存储在Windows创建的卷影副本中的注册表文件进行比较。比较两个注册表快照时，可以看到两个快照之间注册表中所做的确切更改，还可以选择将注册表更改导出到RegEdit的标准.reg文件中。
+WinCrashReport v1.25
+WinCrashReport为Windows操作系统的内置崩溃报告程序提供了一种替代方案。当应用程序在系统中崩溃，Windows显示操作系统的内部崩溃窗口时，您可以运行WinCrashReport，并获得有关崩溃应用程序的详细报告。WinCrashReport的崩溃报告显示为简单文本或HTML格式，包括以下信息：崩溃内存地址、异常代码、异常描述、堆栈中的字符串、调用堆栈、处理器寄存器、模块列表、线程列表等。。。
+WhatIsHang v1.27
+有时，Windows软件挂起，用户界面不再响应，您无法找出问题的原因。此实用程序尝试检测当前挂起的软件，并显示一些信息，使您能够了解是什么导致软件挂起。WhatIsHang报告中显示的大部分信息，如调用堆栈、堆栈数据、处理器寄存器和内存数据，都是为具有Windows编程知识的用户设计的。不过，WhatIsHang还显示了与挂起问题相关的字符串和dll文件的列表，这也可以帮助没有编程知识的用户了解问题的原因。
+OpenedFilesView v1.86
+OpenedFilesView显示系统上所有打开文件的列表。对于每个打开的文件，将显示其他信息：句柄值、读/写/删除访问、文件位置、打开文件的进程等等。。。也可以关闭一个或多个打开的文件，或关闭打开这些文件的进程。
+FolderChangesView v2.31
+FolderChangesView是一个简单的工具，它监视您选择的文件夹或磁盘驱动器，并列出在监视文件夹时正在修改、创建或删除的每个文件名。只要您对所选文件夹具有读取权限，就可以将FolderChangesView与任何本地磁盘驱动器或远程网络共享一起使用。
+AdvancedRun v1.15
+AdvancedRun是Windows的一个简单工具，它允许您使用不同的设置运行程序，这些设置包括-低优先级或高优先级、开始目录、主窗口状态（最小化/最大化）、使用不同的用户或权限运行程序、操作系统兼容性设置和环境变量。您还可以将所需设置保存到配置文件中，然后使用所需设置从命令行自动运行程序。
+ShadowCopyView v1.05
+ShadowCopyView是Windows 10/8/7/Vista的一个简单工具，它列出了由Windows的“卷影复制”服务创建的硬盘的快照。每个快照都包含自创建快照之日起较旧版本的文件和文件夹，您可以浏览较旧版本的文件和文件夹，还可以选择将它们复制到磁盘上的文件夹中。
+PreviousFilesRecovery v1.00
+previousfilerecovery是一个适用于Windows 10/8/7/Vista的简单工具，它允许您扫描本地硬盘的卷影副本，查找已删除的文件以及旧版本的现有文件。如果您需要的文件在Windows的卷影副本中找到，您可以通过将其复制到驱动器上的现有文件夹中来轻松恢复它。
+LastActivityView v1.35
+LastActivityView是一个用于Windows操作系统的工具，它从正在运行的系统上的各种源收集信息，并显示用户所做的操作和此计算机上发生的事件的日志。LastActivityView显示的活动包括：运行.exe文件、打开“打开/保存”对话框、从资源管理器或其他软件打开文件/文件夹、软件安装、系统关闭/启动、应用程序或系统崩溃、网络连接/断开连接等等。。。您可以轻松地将此信息导出到csv/tab分隔的/xml/html文件中，或将其复制到剪贴板，然后粘贴到Excel或其他软件中。
+OpenSaveFilesView v1.15
+OpenSaveFilesView是一个简单的工具，它显示以前用Windows的标准打开/保存对话框打开的文件列表。对于列表中的每个文件，将显示以下信息：文件名、扩展名、顺序（每个文件扩展名打开文件的顺序）、打开时间（仅适用于每个文件类型的最后打开的文件）、文件修改/创建时间、文件大小和文件属性。
+ExecutedProgramsList v1.11
+ExecutedProgramsList是一个简单的工具，它显示以前在系统上执行的程序和批处理文件的列表。对于每个程序，ExecutedProgramsList显示.exe文件、.exe文件的创建/修改时间以及程序的当前版本信息（产品名称、产品版本、公司名称）（如果可用）。对于某些程序，也会显示程序的上次执行时间。
+TaskSchedulerView v1.54
+TaskSchedulerView是一个适用于Windows Vista/7/8/10的简单工具，它在一个表中显示Windows任务调度器中所有任务的列表。它还允许您轻松地同时禁用/启用多个任务。对于每个任务，都会显示以下信息：任务名称、说明、状态、隐藏（是/否）、上次运行/下次运行时间、任务文件夹、任务的EXE文件名或COM处理程序、错过的运行次数等等。。。
+LoadedDllsView v1.01
+LoadedDllsView是Windows的一个简单工具，它可以扫描系统上所有正在运行的进程，并显示这些进程加载的所有DLL文件的列表以及加载列表中每个DLL的进程数。在LoadedDllsView的上窗格中选择DLL文件时，下窗格显示使用所选DLL文件的所有进程的列表。还可以选择一个或多个DLL文件，然后将列表导出为逗号分隔/制表符分隔/html/xml文件。
+TimeZonesView v1.06
+时区视图是Windows的一个简单工具，用于显示所有世界时区。对于每个时区，将显示以下信息：名称、说明、此时区中的当前日期/时间以及夏时制开始和结束的日期/时间。
+SecuritySoftView v1.00
+SecuritySoftView是一个简单的工具，它显示当前安装在系统上并在Windows操作系统安全中心注册的防病毒、反间谍软件和防火墙程序。
+FolderTimeUpdate v1.55
+FolderTimeUpdate是Windows的一个简单工具，它扫描所选基本文件夹下的所有文件和文件夹，并根据其中存储的文件的最新修改时间更新每个文件夹的“修改时间”。例如，如果备份一组文件夹，然后将其还原到另一个磁盘，但备份程序未还原文件夹的原始修改时间，则此工具可能很有用。
+SimpleWMIView v1.40
+SimpleWMIView是一个用于Windows的简单工具，它可以在一个简单的表中显示WMI查询的结果，并允许您轻松地将数据导出到text/csv/tab delimited/html/xml文件，或者将所选项目复制到剪贴板，然后将它们粘贴到Excel或其他电子表格应用程序中。使用SimpleWMIView，您可以获得有关系统的大量信息，如正在运行的进程、服务、驱动程序、用户帐户、硬件等的列表。。。
+AppCompatibilityView v1.02
+AppCompatibilityView是一个简单的工具，它显示使用不同兼容性设置运行的所有程序的列表，存储在注册表中的HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\appcompatibleflags\Layers和HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\appcompatibleflags\Layers项下。它还允许您一次轻松地修改或删除多个应用程序的兼容性设置。
+AllThreadsView v1.00
+AllThreadsView是一个用于Windows的简单工具，它在一个表中显示系统上所有进程的所有运行线程的列表。对于每个线程，将显示以下信息：线程ID、创建时间、内核时间、用户时间、持续时间、开始地址、优先级、基本优先级、上下文切换计数、上下文切换更改（自上次刷新以来）、等待原因、进程ID、进程路径。
+MMCSnapInsView v1.00
+MMCSnapInsView是一个用于Windows的简单工具，它显示系统上安装的所有MMC管理单元的详细信息，包括名称、说明、CLSID、dll文件、产品名称、公司名称、文件版本等。。。您还可以选择多个MMC管理单元，然后在MMC应用程序中打开它们。
+JumpListsView v1.16
+JumpListsView是一个简单的工具，它显示由Windows7和Windows8的“跳转列表”功能存储的信息。对于跳转列表中找到的每条记录，将显示以下信息：用户打开的文件名、文件打开事件的日期/时间、用于打开文件的应用程序的ID、文件打开时的大小/时间/属性，等等。。。您还可以将跳转列表记录导出到csv/tab-delimited/xml/html文件。
+SysExporter v1.77
+SysExporter实用程序允许您从系统上运行的几乎所有应用程序中获取存储在标准列表视图、列表框和组合框中的数据，并将其导出为文本、HTML或XML文件。
+FirmwareTablesView v1.01
+FirmwareTablesView是一个用于Windows的简单工具，它显示存储在系统上的固件表列表（ACPI、SMBIOS）。您可以以十六进制转储格式查看这些表的内容，并将其导出到二进制文件。
+BatteryInfoView v1.23
+BatteryInfoView是一个用于笔记本电脑和上网本电脑的小型实用程序，可显示当前状态和有关电池的信息。显示的电池信息包括电池名称、制造商名称、序列号、制造日期、电源状态（充电/放电）、当前电池容量、充满电容量、电压、充电/放电率等。。。BatteryInfoView还提供一个日志窗口，该窗口每30秒或您选择的任何其他时间间隔添加一个包含电池状态的新日志行。
+Password Security Scanner v1.55
+此实用程序扫描流行的Windows应用程序（Microsoft Outlook、Internet Explorer、Mozilla Firefox等）存储的密码，并显示所有这些密码的安全信息。每个存储的密码的安全信息包括字符总数、数字字符数、大小写字符数、重复字符数和密码强度。您可以使用此工具来确定其他用户使用的密码是否足够安全，而不必监视密码本身。
+WhatInStartup v1.35
+此实用程序显示Windows启动时自动加载的所有应用程序的列表。对于每个应用程序，将显示以下信息：启动类型（注册表/启动文件夹）、命令行字符串、产品名称、文件版本、公司名称、在注册表或文件系统中的位置等等。它允许您轻松禁用或删除在Windows启动中运行的不需要的程序。您可以在当前运行的Windows实例上使用它，也可以在其他驱动器中的Windows外部实例上使用它。WhatInStartup还支持一个特殊的“永久禁用”功能-如果以前禁用的程序再次将自身添加到Windows的启动列表中，WhatInStartup将自动检测更改并再次禁用它。
+DevManView v1.66
+DevManView是Windows标准设备管理器的替代品，它在平面表中显示所有设备及其属性，而不是树查看器。除了显示本地计算机的设备外，只要您对该计算机具有管理员访问权限，DevManView还允许您查看网络上另一台计算机的设备列表。DevManView还可以从Windows的外部实例加载设备列表并禁用不需要的设备。如果Windows操作系统存在引导问题，并且希望禁用有问题的设备，则此功能非常有用。
+NetworkInterfacesView v1.15
+NetworkInterfacesView是一个简单的工具，它显示系统上安装的所有网络适配器/接口的列表。它显示当前处于活动状态的网络接口，以及以前已安装但现在未连接的网络接口（如USB无线网络适配器）。对于系统上找到的每个网络接口，将显示以下信息（如果它存储在注册表中）：设备名称、连接名称、IP地址、子网掩码、默认网关、DHCP服务器、状态、MAC地址等。。。您可以选择一个或多个网络接口项，然后将它们导出到xml/html/csv/tab分隔的文件中，或者将它们复制到剪贴板中，然后将它们粘贴到Excel或其他电子表格应用程序中。
+WinPrefetchView v1.36
+每次在系统中运行应用程序时，Windows操作系统都会创建一个预取文件，其中包含有关应用程序加载的文件的信息。预取文件中的信息用于优化下次运行应用程序时应用程序的加载时间。WinPrefetchView是一个小实用程序，它读取存储在系统中的预取文件并显示其中存储的信息。通过查看这些文件，您可以了解每个应用程序都在使用哪些文件，以及哪些文件是在Windows引导下加载的。
+AppCrashView v1.35
+AppCrashView是一个用于Windows Vista和Windows 7的小型实用程序，它显示系统中发生的所有应用程序崩溃的详细信息。每次发生崩溃时，都会从操作系统的Windows错误报告（wer）组件创建的.wer文件中提取崩溃信息。AppCrashView还允许您轻松地将崩溃列表保存为text/csv/html/xml文件。
+ProcessActivityView v1.16
+ProcessActivityView创建选定进程尝试访问的所有文件和文件夹的摘要。对于进程访问的每个文件，将显示以下信息：文件打开和关闭的次数、读/写调用的次数、读/写字节总数、上次打开文件调用的dll等等。。。
+WinUpdatesList v1.33
+WinUpdatesList显示本地计算机上安装的所有Windows更新（服务包和修补程序）的列表。对于修补程序更新，此实用程序还显示使用这些修补程序更新的文件列表。此外，它还允许您立即在Microsoft网站中打开提供有关选定更新的详细信息的Web链接、卸载更新、将更新信息复制到剪贴板或将其保存到text/HTML/XML文件。
+TurnedOnTimesView v1.42
+TurnedOnTimesView是一个简单的工具，用于分析Windows操作系统的事件日志，并检测计算机打开的时间范围。对于计算机打开的每一段时间，都会显示以下信息：启动时间、关闭时间、持续时间、关闭原因、关闭类型、关闭过程和关闭代码。TurnedOnTimesView允许您从本地计算机和网络上的远程计算机（如果您有足够的权限远程读取Windows的事件日志）获取此信息。
+WinLogOnView v1.33
+WinLogOnView是Windows Vista/7/8/2008的一个简单工具，它分析Windows操作系统的安全事件日志，并检测用户登录和注销的日期/时间。每次用户登录/注销系统时，都会显示以下信息：登录ID、用户名、域、计算机、登录时间、注销时间、持续时间和网络地址。WinLogOnView还允许您轻松地将登录会话信息导出到制表符分隔/逗号分隔/html/xml文件。
+ShellExView v2.01 - Shell Extensions Manager
+ShellExView实用程序显示计算机上安装的shell扩展的详细信息，并允许您轻松禁用和启用每个shell扩展。
+InstalledDriversList v1.05
+InstalledDriversList是Windows的一个简单工具，它列出当前安装在系统上的所有设备驱动程序。对于每个设备驱动程序，将显示以下信息：驱动程序名称、显示名称、说明、启动类型、驱动程序类型、驱动程序组、文件名、文件大小、驱动程序文件的修改/创建时间以及驱动程序文件的版本信息。如果驱动程序当前正在Windows内核上运行，则还将显示以下信息：基本内存地址、结束地址、内存大小和加载计数。
+URLProtocolView v1.15
+URLProtocolView是一个简单的实用程序，它显示当前安装在系统上的所有URL协议（例如：ftp:、telnet:、mailto:）。对于每个URL协议，将显示以下信息：协议名称、协议描述、键入或单击URL时执行的命令行、产品名称和公司名称。此实用程序还允许您轻松启用/禁用URL协议。
+WinsockServicesView v1.00
+此实用程序显示系统上安装的所有Winsock服务提供程序的详细信息。对于每个Winsock服务，将显示以下信息：显示名称、状态（启用/禁用）、DLL类型（32位或64位）、DLL文件名、DLL描述/版本和创建/修改时间。WinsockServicesView还允许您轻松禁用/启用Winsock服务提供程序。
+RegScanner v2.40
+RegScanner是一个小实用程序，它允许您扫描注册表，找到与指定搜索条件匹配的所需注册表值，并将它们显示在一个列表中。找到注册表值后，只需双击所需的注册表项，就可以轻松地跳转到RegEdit中的正确值。
+OfflineRegistryFinder v1.05
+OfflineRegistryFinder是一个用于Windows的工具，它允许您从外部驱动器扫描注册表文件，并根据定义的搜索条件查找所需的注册表项/值/数据。OfflineRegistryFinder显示搜索结果后，您可以轻松地选择一个或多个项目，然后将它们导出到一个.reg文件中，该文件可用于在Windows的RegEdit工具中导入。OfflineRegistryFinder也可用于正在运行的操作系统的注册表扫描。您只需创建注册表快照，然后使用OfflineRegistryFinder扫描此快照。在注册表快照中搜索通常比在运行系统的注册表中搜索快得多。
+OfflineRegistryView v1.03
+OfflineRegistryView是Windows的一个简单工具，它允许您从外部驱动器读取脱机注册表文件，并以.reg文件格式查看所需的注册表项。
+RegFromApp v1.33
+RegFromApp监视您选择的应用程序所做的注册表更改，并创建一个包含应用程序所做的所有注册表更改的标准RegEdit注册文件（.reg）。您可以使用生成的.reg文件在需要时使用RegEdit导入这些更改。
+BluetoothLogView v1.12
+BluetoothLogView是一个小型实用程序，它可以监视您周围蓝牙设备的活动，并在主窗口上显示蓝牙设备的日志。每次新的蓝牙设备到达您的区域并且设备离开您的区域时，都会添加一个新的日志行，其中包含以下信息：设备名称、设备地址、事件时间、事件类型（“设备到达”或“设备离开”）、设备类型和创建设备的公司。BluetoothLogView还允许您为将出现在“描述”列下的每个设备（根据其MAC地址）指定描述。
+BluetoothView v1.66
+BluetoothView是一个在后台运行的小型实用程序，它可以监视您周围蓝牙设备的活动。对于每个检测到的蓝牙设备，它显示以下信息：设备名称、蓝牙地址、主要设备类型、次要设备类型、首次检测时间、上次检测时间等。BluetoothView还可以在检测到新的蓝牙设备时通知您，方法是在任务栏中显示一个气球或播放一个小哔哔声。
+ProcessThreadsView v1.29
+ProcessThreadsView是一个小实用程序，它显示有关所选进程的所有线程的大量信息。线程信息包括ThreadID、上下文开关计数、优先级、创建时间、用户/内核时间、窗口数、窗口标题、开始地址等。在上窗格中选择线程时，下窗格显示以下信息：堆栈中找到的字符串、堆栈模块地址、调用堆栈和处理器寄存器。ProcessThreadsView还允许您挂起和恢复一个或多个线程。
+CleanAfterMe v1.37
+CleanAfterMe允许您轻松地清除Windows操作系统在正常计算机工作期间自动创建的文件和注册表项。使用CleanAfterMe，您可以清除Internet Explorer的cookies/history/cache/passwords、“最近”文件夹、记录上次打开文件的注册表项、Windows的临时文件夹、事件日志、回收站等。
+SearchFilterView v1.00
+使用Windows search搜索文件内容时，它会根据文件扩展名使用正确的search IFilter插件。此实用程序允许您轻松查看安装在系统上的搜索筛选器及其关联的文件扩展名，还允许您轻松添加或删除这些筛选器的文件扩展名。
+UserProfilesView v1.10
+user profiles视图显示系统中当前所有用户配置文件的列表。对于每个用户配置文件，将显示以下信息：域\用户名、配置文件路径、上次加载时间、注册表文件大小、用户SID等。您可以将配置文件列表保存到text/xml/html/csv文件中。
+MonitorInfoView v1.21
+MonitorInfoView是一个小实用程序，它显示有关监视器的基本信息：制造周/年、监视器制造商、监视器型号、支持的显示模式等等。。。信息是从存储在计算机上的EDID（“扩展显示标识数据”）记录中提取的。如果您使用管理员权限登录到这些计算机，还可以查看网络上多台计算机的监视器信息。
+RunAsDate v1.37
+RunAsDate是一个小实用程序，允许您在指定的日期和时间内运行程序。此实用程序不会更改计算机的当前系统日期和时间，但只将指定的日期/时间注入到所需的应用程序中。您可以同时运行多个应用程序，每个应用程序使用不同的日期和时间工作，而系统的实际日期/时间继续正常运行。
+ProduKey v1.93
+ProduKey是一个小实用程序，它显示安装在计算机上的MS Office、Windows和SQL Server的ProductID和CD密钥。您可以使用命令行选项查看当前正在运行的操作系统或其他操作系统/计算机的此信息。
+RegDllView v1.60
+RegDllView是一个小实用程序，它显示所有注册的dll/ocx/exe文件（COM注册）的列表。对于每个注册的文件，您可以查看它最后注册的日期/时间，以及所有注册项的列表（CLSID/ProgID）。
+MUICacheView v1.01
+每次开始使用新的应用程序时，Windows操作系统都会自动从exe文件的版本资源中提取应用程序名，并将其存储在名为“MuiCache”的注册表项中，供以后使用。此实用程序允许您轻松查看和编辑系统上所有MuiCache项的列表。您可以编辑应用程序的名称，也可以删除不需要的MUICache项。
+ShellBagsView v1.21
+每次在资源管理器中打开文件夹时，Windows会自动将此文件夹的设置保存到注册表中。此实用程序显示由Windows保存的所有文件夹设置的列表。对于每个文件夹，将显示以下信息：打开它的日期/时间、条目号、显示模式（详细信息、图标、平铺等）、窗口的最后位置和窗口的最后大小。
+UserAssistView v1.02
+此实用程序将解密并显示存储在注册表中的HKEY\u CURRENT\USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist项下的所有UserAssist项的列表。UserAssist键包含有关经常打开的exe文件和链接的信息。您可以将用户辅助项列表保存到text/html/xml/csv文件中，还可以删除不需要的项。
+FullEventLogView v1.52
+FullEventLogView是Windows 10/8/7/Vista的一个简单工具，它在表中显示Windows事件日志中所有事件的详细信息，包括事件描述。它允许您查看本地计算机的事件、网络上远程计算机的事件以及存储在.evtx文件中的事件。它还允许您从GUI和命令行将事件列表导出为text/csv/tab delimited/html/xml文件。
+EventLogChannelsView v1.20
+EventLogChannelsView是一个适用于Windows 10/8/7/Vista的简单工具，它显示系统上所有事件日志通道的列表，包括通道名称、事件日志文件名、启用/禁用状态、通道中的当前事件数等等。。。它还允许您轻松地同时对多个通道执行某些操作：启用/禁用通道、设置其最大文件大小以及清除存储在通道中的所有事件。
+MyEventViewer v2.25
+MyEventViewer是Windows标准事件查看器的简单替代品。与Windows事件查看器相反，MyEventViewer允许您在一个列表中查看多个事件日志，并且事件描述和数据显示在主窗口中，而不是打开一个新窗口。此外，使用MyEventViewer，您可以轻松地选择多个事件项，然后将它们保存到HTML/Text/XML文件中，或者将它们复制到剪贴板（Ctrl+C），然后将它们粘贴到Excel中。
+EventLogSourcesView v1.00
+EventLogSourcesView是一个简单的工具，它显示系统上安装的所有事件日志源的列表。对于每个事件日志源，将显示以下信息：事件源名称、事件类型、包含事件消息字符串的DLL/EXE文件、注册表修改时间以及从DLL/EXE文件中获取的版本信息（产品名称、公司、文件说明、文件版本）
+ActiveXHelper v1.12
+ActiveXHelper是一个小型实用程序，允许您查看有关安装在计算机上的ActiveX组件的基本信息。你可以看到整个（和非常大的！）通过从HKEY_CLASSES_ROOT\CLSID注册表项加载ActiveX组件列表，或者只显示指定的ActiveX组件。此外，您可以暂时禁用特定的ActiveX组件。当ActiveX组件被禁用时，任何软件都不能使用它们，除非您再次启用它们。
+RecentFilesView v1.33
+每次从Windows资源管理器或标准的“打开/保存”对话框打开文件时，操作系统都会记录您打开的文件名。有些名字保存在“最近”文件夹中。另一个保存在注册表中。此实用程序显示最近打开的所有文件的列表，并允许您删除不需要的文件名条目。您还可以将文件列表保存到text/html/xml文件中。
+InjectedDLL v1.00
+InjectedDLL是一个小实用程序，它显示在系统中的每个进程上自动注入的dll列表。
+CurrProcess v1.13
+CurrProcess实用程序显示系统上当前运行的所有进程的列表。对于每个进程，您可以查看进程加载到内存中的所有模块（DLL文件）的列表。对于所有流程和模块，还将显示其他有用信息：产品名称、版本、公司名称、文件说明、文件大小等。此外，CurrProcess允许您执行以下操作：终止进程、将进程内存转储到文本文件中、创建包含进程信息的HTML报告（其中包含加载到内存中的所有模块的列表）、将所有正在运行的进程的列表保存到文本或HTML文件中等等。
+ServiWin v1.71
+ServiWin实用程序显示系统上已安装的驱动程序和服务的列表。对于其中一些，将显示其他有用信息：文件描述、版本、产品名称、创建驱动程序文件的公司等。此外，ServiWin允许您轻松地停止、启动、重新启动、暂停和继续服务或驱动程序，更改服务或驱动程序的启动类型（自动、手动、禁用、启动或系统），将服务和驱动程序列表保存到文件中，或在默认浏览器中查看已安装服务/驱动程序的HTML报告。
+ShellMenuView v1.41
+ShellMenuView是一个小实用程序，当您右键单击Windows资源管理器上的文件/文件夹时，它会显示上下文菜单中显示的静态菜单项列表，并允许您轻松禁用不需要的菜单项。
+ShellMenuNew v1.02
+ShellMenuNew是一个小实用程序，它显示Windows资源管理器的“新建”子菜单中所有菜单项的列表。它允许您轻松禁用不需要的菜单项，因此此“新建”子菜单将只显示您需要的项。
+BulkFileChanger v1.70
+BulkFileChanger是一个小实用程序，允许您从多个文件夹创建文件列表，然后对它们执行一些操作-修改它们的创建/修改/访问时间，更改它们的文件属性（只读、隐藏、系统），以这些文件作为参数运行可执行文件，并将复制/剪切粘贴到资源管理器中。
+DriverView v1.47
+DriverView实用程序显示系统中当前加载的所有设备驱动程序的列表。对于列表中的每个驱动程序，将显示其他有用信息：驱动程序的加载地址、描述、版本、产品名称、创建驱动程序的公司等等。
+KeyboardStateView v1.00
+KeyboardStateView是一个用于Windows的简单工具，它显示您按的每一个键的当前状态和虚拟键代码。它还允许您查看所有键盘键的当前状态。对于每个键，将显示以下信息：键名称（VK_XXXX）、描述、键代码（十进制）、键代码（十六进制）、键按下状态、键切换状态（对数字锁定、大写锁定有用）和上次按下键的时间。
+HandleCountersView v1.00
+HandleCountersView是一个用于Windows的简单工具，它显示系统上运行的每个进程当前打开的句柄数（文件、目录、令牌、作业、线程等），以及自上次重置计数器以来句柄数的变化。
+GACView v1.11
+GACView是Windows资源管理器上标准的.NET程序集查看器的替代品。除了标准列之外，GACView还显示每个程序集的附加信息，如修改日期、文件大小、程序集文件的完整路径、文件版本等。GACView还允许您删除无法以常规方式卸载的程序集。
+IECompo v1.00
+显示计算机上已安装的Internet Explorer组件。
+StartBlueScreen v1.00
+这个实用程序，就像它听起来一样，允许您通过根据从命令行指定的5个参数启动死神蓝屏来崩溃Windows操作系统。
+MobileFileSearch v1.07
+MobileFileSearch是一个Windows工具，它允许您使用媒体传输协议（MTP）搜索插入计算机USB端口的移动设备（智能手机或平板电脑）中的文件。可以按文件大小、创建时间、修改时间或名称（使用通配符）搜索文件。在智能手机/平板电脑上找到文件后，您可以选择删除它们，将它们复制到计算机上的文件夹，或将文件列表导出到csv/tab delimited/html/xml/JSON文件。MobileFileSearch还允许您从命令行激活搜索，然后将结果导出到文件，或将找到的文件复制到计算机上所需的文件夹。
+ESEDatabaseView v1.63
+ESEDatabaseView是一个简单的实用程序，它读取并显示可扩展存储引擎（ESE）数据库（也称为“Jet Blue”或.edb文件）中存储的数据。它显示打开的数据库文件中可用的所有表的列表，允许您选择要查看的所需表，然后当您选择表时，它显示在所选表中找到的所有记录。ESEDatabaseView还允许您轻松地选择一个或多个记录，然后将它们导出到逗号分隔/制表符分隔/html/xml文件中，或者将记录复制到剪贴板（Ctrl+C），然后将它们粘贴到Excel或其他电子表格应用程序中。
+WebCamImageSave v1.11
+WebCammageSave是一个简单的网络摄像头捕获实用程序，允许您在选择的每几秒钟从相机中轻松捕获静止图像，并将其保存到磁盘上的图像文件（.jpg、.png、.bmp）中。您可以将保存的图像文件名格式化为根据您的偏好拍摄图像的日期/时间，例如：c:\ images\img20110725_.jpg WebCamImageSave还可以使用您选择的字体、颜色和日期/时间格式添加一个标签，其中包含图像拍摄到图像中的日期/时间。也可以从命令行捕获单个相机图像，而不显示任何用户界面。
+ExifDataView v1.06
+ExifDataView是一个小型实用程序，它读取并显示存储在数码相机生成的.jpg图像文件中的Exif数据。EXIF数据包括创建相机的公司名称、相机型号、拍摄日期/时间、曝光时间、ISO速度、GPS信息（对于带GPS的数码相机）等等。
+TableTextCompare v1.20
+TableTextCompare是一个小实用程序，允许您轻松比较2个制表符分隔或逗号分隔（csv）文件，并找出这两个文件之间的差异。您可以使用此工具比较由其他NirSoft实用程序（如DriverView、ServiWin、USBDeview、CurrPorts、WirelessNetView、ShellExView和许多其他工具）创建的两个不同的数据快照。。。例如，可以使用DriverView实用程序将加载的驱动程序列表的两个快照保存到一个制表符分隔的文件中，然后使用TableTextCompare轻松查找自拍摄第一个快照以来添加、删除或更改了哪些设备驱动程序。即使两个文件的记录没有按相同的顺序排序，或者字段没有按相同的顺序放置，TableTextCompare也可以进行比较。
+CSVFileView v2.45
+CSV file view是一个简单的CSV文件查看器/转换器实用程序，允许您在一个简单的表查看器中轻松查看由NirSoft实用程序或任何其他软件创建的CSV或制表符分隔文件的内容。您可以根据其中一个字段对行进行排序，删除不需要的字段并更改其顺序，然后将结果保存回CSV文件、制表符分隔的文件、XML文件或HTML报表。
+LiveContactsView v1.26
+LiveContactsView是一个小型实用程序，允许您查看Windows Live Messenger中所有联系人的详细信息。对于每个联系人，LiveContactsView显示以下字段：电子邮件地址、昵称、快速名称、名字、姓氏等。您可以轻松地选择一个或多个联系人，然后将其导出到text/xml/html/csv文件中，或者将其复制到剪贴板中，然后将其粘贴到Excel或其他电子表格应用程序中。
+SkypeLogView v1.55
+SkypeLogView读取Skype应用程序创建的日志文件，并显示由指定Skype帐户进行的传入/传出呼叫、聊天消息和文件传输的详细信息。您可以从日志列表中选择一个或多个项目，然后将它们复制到剪贴板，或者将它们导出到text/html/csv/xml文件中。
+SkypeContactsView v1.05
+SkypeContactsView是一个简单的工具，它显示存储在Skype本地数据库文件中的所有Skype联系人的列表。对于每个联系人，将显示以下一个或多个字段：Skype名称、全名、显示名称、性别、ID、生日、配置文件时间、上次联机时间、上次使用时间、电话、电子邮件等。。。SkypeContactsView还允许您将联系人列表导出到文本/制表符分隔/逗号分隔/xml/html文件中，或将其复制到剪贴板，然后将其粘贴到Excel或其他电子表格应用程序中。
+ResourcesExtract v1.18
+resources extract是一个小实用程序，它扫描dll/ocx/exe文件，并将其中存储的所有资源（位图、图标、光标、AVI电影、HTML文件等）提取到指定的文件夹中。您可以在用户界面模式下使用ResourcesExtract，也可以在命令行模式下运行ResourcesExtract，而不显示任何用户界面。
+HashMyFiles v2.36
+HashMyFiles是一个小实用程序，允许您计算系统中一个或多个文件的MD5和SHA1哈希值。您可以轻松地将MD5/SHA1散列列表复制到剪贴板中，或者将它们保存到text/html/xml文件中。HashMyFiles也可以从Windows资源管理器的上下文菜单中启动，并显示所选文件或文件夹的MD5/SHA1散列。
+WinFontsView v1.10
+WinFontsView是一个小实用程序，它枚举系统上安装的所有字体，并将它们显示在一个简单的表中。对于每个字体，WinFontsView会绘制5个不同大小的字体示例，以便您轻松找到并选择所需的字体。WinFontsView还允许您以粗体、斜体或下划线查看字体，还允许您将字体列表导出到html文件中。如果需要在非英语字符集中查找字体，WinFontsView还允许您选择字体的正确字符集并键入每个字体的示例文本中显示的字符。
+HotKeysList v1.00
+hot keys list是Windows的一个简单工具，它显示当前在系统上注册的热键列表。您可以使用此工具轻松确定系统上可使用的热键。
+MetarWeather v1.76
+MetarWeather实用程序解码来自世界各地的METAR天气报告，并将其显示在一个简单的天气报告表中。您可以将天气报告保存为文本或HTML文件。MetarWeather可以从文本文件中解码METAR报告，或者直接从Internet下载最新报告。
+HtmlDocEdit v1.02
+HtmlDocEdit是一个基于Internet Explorer浏览器的简单HTML设计器/编辑器，它允许您在不了解HTML的情况下轻松编辑HTML文件。使用HtmlDocEdit，您可以更改选定文本的字体/颜色、添加图像、添加链接、添加有序和无序列表等。。。
+ZipInstaller v1.21
+ZipInstaller实用程序安装和卸载不提供内部安装程序的应用程序和实用程序。您可以使用此实用程序安装和卸载此网站中的所有其他实用程序。
+IconsExtract v1.47
+从EXE、DLL、CPL和OCX文件中提取图标和光标，并将它们保存为ICO或CUR文件。
+DotNetResourcesExtract v1.01
+DotNetResourcesExtract是一个小实用程序，它扫描.NET应用程序的dll/exe文件，并将存储在其中的所有.NET嵌入资源（位图、gif、HTML文件等）提取到指定的文件夹中。c#源代码可用。
+WinExplorer v1.30
+WinExplorer是一个实用程序，它在分层显示中显示所有系统的窗口。对于层次结构中的每个窗口，都可以查看其属性，如句柄、类名、标题、大小、位置等。您还可以修改一些属性，如标题和可见/启用。
+ExeInfo v1.01
+ExeInfo实用程序显示有关可执行文件（.exe）、动态链接库（.dll）、ocx文件和驱动程序文件的常规信息。
+pcANYWHERE Hosts Scanner v1.01
+这个小实用程序允许您扫描TCP/IP网络并获取该网络中所有pcANYWHERE主机的列表。
