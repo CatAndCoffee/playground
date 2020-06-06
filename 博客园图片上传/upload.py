@@ -73,9 +73,9 @@ def modifyCookie(text):
 
 if __name__ == "__main__":
     """
-    getPic输入文件名，生成"upload_文件名.md"
+    比如md文件为F:\markdown\test.md
     """
     rawCookie ="" # 博客园的cookie
     modifyCookie(rawCookie)
-    os.chdir("") # markdown文件和图片文件夹的位置
-    getPic("") #markdown文档名
+    os.chdir("f:\markdown") # markdown文件和图片文件夹的位置
+    getPic("test.md") #markdown文档名
